@@ -17,7 +17,7 @@
     
   - [Malware Analysis Lab](https://github.com/MustafaCybertests/Malware-Analysis-Lab)
     
-  - [IDS/ZEEK Network Monitoring](https://github.com/MustafaCybertests/IDS-ZEEK-Network-Monitoring)
+  - [SQL Coding](https://github.com/MustafaCybertests/IDS-ZEEK-Network-Monitoring)
 
   
 
