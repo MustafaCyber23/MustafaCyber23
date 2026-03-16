@@ -1,7 +1,10 @@
-## Hi there 👋
-<h1>Hi, I'm Mustafa Alhilal! </h1>
+## Hi, I'm Mustafa Alhilal! 👋
+<h1> 👨‍💻 Cloud & Infrastructure Engineer (In Training) </h1>
 
-<h1> 🚀 Cloud Computing Enthusiast | Student Developer </h1>
+<h1>WGU Cloud & Network Engineering Student 
+
+  
+ 🚀 Azure | Networking | Linux | Terraform | Automation </h1>
 
 **I'm a student currently pursuing a degree in Cloud Computing, passionate about exploring the latest cloud technologies and building scalable solutions. I'm constantly learning and contributing to the world of cloud services and software development. Feel free to explore my projects!**
 
@@ -28,7 +31,12 @@
 
 <h2> Certifications</h2>
 
-- <b>CompTIA A+</b>
+- <b>CompTIA A+ (In Progress – March 2026)
+- <b>CompTIA Network+ (Planned)
+- <b>CompTIA Security+ (WGU Program)
+- <b>AWS Cloud Practitioner (Planned)
+
+Google Cybersecurity Certificate</b>
 
 - <b> [Google Cyber Security Certificate](https://imgur.com/02Fnugc)<br/>
 
