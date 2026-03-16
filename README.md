@@ -8,6 +8,14 @@
 
 **I'm a student currently pursuing a degree in Cloud Computing, passionate about exploring the latest cloud technologies and building scalable solutions. I'm constantly learning and contributing to the world of cloud services and software development. Feel free to explore my projects!**
 
+<h2>👨‍💻 Cloud Projects:</h2>
+
+- <b> azure-cloud-homelab
+  
+- <b> active-directory-lab
+  
+- <b> docker-nginx-webapp
+
 <h2>👨‍💻 Experience:</h2>
 
   - [Configuring a Wireless Network!](https://github.com/MustafaCybertests/HONEYPOT-LAB)
@@ -22,12 +30,6 @@
     
   - [SQL Coding](https://github.com/MustafaCybertests/IDS-ZEEK-Network-Monitoring)
 
-  
-
-
-<h2>👨‍💻 Cloud Projects:</h2>
-
-  
 
 <h2> Certifications</h2>
 
@@ -40,9 +42,6 @@ Google Cybersecurity Certificate</b>
 
 - <b> [Google Cyber Security Certificate](https://imgur.com/02Fnugc)<br/>
 
-
-
-- <b>CompTIA Security+ (expected June 2024)</b>
 
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
